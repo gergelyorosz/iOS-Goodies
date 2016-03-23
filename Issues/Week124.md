@@ -9,6 +9,7 @@
 * [Outlets: Strong! Or Weak?](http://scottberrevoets.com/2016/03/21/outlets-strong-or-weak/), by [@ScottBerrevoets](https://twitter.com/ScottBerrevoets)
 * [Improved Protocol-Oriented Programming with Untyped Type Aliases (part 1)](https://medium.com/capital-one-developers/improved-protocol-oriented-programming-with-untyped-type-aliases-part-1-625484ca1f9d), by [@michikono](https://twitter.com/michikono)
 * [Errors: unexpected, composite, non-pure, external](http://www.cocoawithlove.com/blog/2016/03/17/non-pure-errors.html), by [@cocoawithlove](https://twitter.com/cocoawithlove)
+* [Migrating Objective C projects to Swift – step by step guide](http://codevoyagers.com/2016/03/23/how-we-migrated-our-objective-c-projects-to-swift-step-by-step/), by [@GergelyOrosz](https://twitter.com/GergelyOrosz)
 
 **Tools/Controls**
 
@@ -33,4 +34,4 @@
 
 **Credits**
 
-* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz)
+* [mariusc](https://github.com/mariusc), [@delba](https://github.com/delba), [rbarbosa](https://github.com/rbarbosa), [lkmfz](https://github.com/lkmfz). [@GergelyOrosz](https://github.com/gergelyorosz)
